@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main"
+        android:id="@+id/main"
+        android:icon="@drawable/main"/>
+
+    <item android:title="Favorites"
+        android:id="@+id/favorites"
+        android:icon="@drawable/star"/>
+
+    <item android:title="Notification"
+        android:id="@+id/notificate"
+        android:icon="@drawable/bell"/>
+
+    <item android:title="News"
+        android:id="@+id/news"
+        android:icon="@drawable/new_tab"/>
+
+    <item android:title="Portfolio"
+        android:id="@+id/portfolio"
+        android:icon="@drawable/bag"/>
+
+    <item android:title="ToolFusion"
+        android:id="@+id/toolfusion"
+        android:icon="@drawable/key"/>
+
+    <item android:title="Settings"
+        android:id="@+id/settings"
+        android:icon="@drawable/nastroi"/>
+
+</menu>
